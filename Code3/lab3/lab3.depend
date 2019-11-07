@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522875390 source:e:\christian\downloads\code3\test1.cpp
+	<iostream>
+	<vector>
+	"BinarySearchTree.h"
+
+1522878300 e:\christian\downloads\code3\binarysearchtree.h
+	"dsexceptions.h"
+	<algorithm>
+
+1121293104 e:\christian\downloads\code3\dsexceptions.h
+

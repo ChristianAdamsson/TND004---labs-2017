@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1398941600 source:e:\christian\downloads\code4a\digraph.cpp
+	<iostream>
+	<iomanip>
+	<cassert>
+	"digraph.h"
+	"queue.h"
+
+1398942158 e:\christian\downloads\code4a\digraph.h
+	"list.h"
+
+1398941736 e:\christian\downloads\code4a\list.h
+
+1398941438 e:\christian\downloads\code4a\queue.h
+	<cassert>
+
+1398941736 source:e:\christian\downloads\code4a\list.cpp
+	<iostream>
+	<iomanip>
+	"list.h"
+
+1398941742 source:e:\christian\downloads\code4a\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"digraph.h"
+
